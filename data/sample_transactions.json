@@ -1,0 +1,12 @@
+[
+  {"transaction_id": "TXN-1001", "customer_id": "CUST-501", "amount": 129.50, "currency": "EUR", "status": "settled", "timestamp": "2026-06-01T09:12:00Z", "velocity_flag": "normal"},
+  {"transaction_id": "TXN-1002", "customer_id": "CUST-501", "amount": 44.00, "currency": "EUR", "status": "settled", "timestamp": "2026-06-02T14:03:00Z", "velocity_flag": "normal"},
+  {"transaction_id": "TXN-1003", "customer_id": "CUST-502", "amount": 980.00, "currency": "EUR", "status": "flagged", "timestamp": "2026-06-02T14:05:00Z", "velocity_flag": "high"},
+  {"transaction_id": "TXN-1004", "customer_id": "CUST-503", "amount": 15.75, "currency": "EUR", "status": "settled", "timestamp": "2026-06-03T08:44:00Z", "velocity_flag": "normal"},
+  {"transaction_id": "TXN-1005", "customer_id": "CUST-501", "amount": 210.00, "currency": "EUR", "status": "pending", "timestamp": "2026-06-04T11:22:00Z", "velocity_flag": "normal"},
+  {"transaction_id": "TXN-1006", "customer_id": "CUST-502", "amount": 12.00, "currency": "EUR", "status": "settled", "timestamp": "2026-06-04T12:01:00Z", "velocity_flag": "normal"},
+  {"transaction_id": "TXN-1007", "customer_id": "CUST-504", "amount": 560.20, "currency": "EUR", "status": "settled", "timestamp": "2026-06-05T16:40:00Z", "velocity_flag": "normal"},
+  {"transaction_id": "TXN-1008", "customer_id": "CUST-503", "amount": 33.30, "currency": "EUR", "status": "settled", "timestamp": "2026-06-06T09:10:00Z", "velocity_flag": "normal"},
+  {"transaction_id": "TXN-1009", "customer_id": "CUST-502", "amount": 1500.00, "currency": "EUR", "status": "flagged", "timestamp": "2026-06-06T09:15:00Z", "velocity_flag": "high"},
+  {"transaction_id": "TXN-1010", "customer_id": "CUST-501", "amount": 76.40, "currency": "EUR", "status": "settled", "timestamp": "2026-06-07T18:02:00Z", "velocity_flag": "normal"}
+]
