@@ -71,9 +71,3 @@ features (velocity windows, totals) my pipeline already computes, so the
 API is a genuinely useful consumer of that work, not a demo wrapper around
 it.
 
-## Honesty note
-
-This runs against a small static sample of transactions, not a live
-connection to the Payments Event Data Platform's real output, and it has
-not been deployed anywhere. I'm not claiming production API experience —
-I'm showing the API design work I've done to start learning it properly.
